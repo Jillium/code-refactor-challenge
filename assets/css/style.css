@@ -164,16 +164,19 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
     float: left;
+    margin-right: 20px;
 }
 
 .online-reputation-management img {
     max-height: 200px;
-    float: left;
+    float: right;
+    margin-left: 20px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
     float: left;
+    margin-right: 20px;
 }
 
 .search-engine-optimization h2 {
@@ -198,6 +201,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
+    
 }
