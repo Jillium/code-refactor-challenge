@@ -163,14 +163,17 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
+    float: left;
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    float: left;
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    float: left;
 }
 
 .search-engine-optimization h2 {
